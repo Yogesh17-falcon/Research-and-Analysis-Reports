@@ -7,7 +7,7 @@ This repository presents a comprehensive analysis of key factors influencing the
 
 - **[US Housing Market Dashboard](https://public.tableau.com/app/profile/yogesh.patil6072/viz/USHousingMarketDashboard/USHousingMarketDashboard)**
 - **[US Housing Analysis 2003-2023](https://www.kaggle.com/code/yogeshpatil17/us-housing-analysis-2003-to-2023)**
-- **[US Housing Analysis Report](https://drive.google.com/file/d/1IsRw-rVK8D8R0_WnA5amswxJTgr1Cnt5/view?usp=drive_link)**
+- **[US Housing Analysis Report](https://docs.google.com/presentation/d/1a88u_NoWnOsNm5O8e2I9UDS21d2sBpUJ/edit?usp=drive_link&ouid=100657664485198824791&rtpof=true&sd=true)**
 
 ## Data Sources
 
